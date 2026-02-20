@@ -13,6 +13,7 @@ ms.custom:
 - sfi-image-nochange
 ms.collection:
 - migration
+- aws-to-azure
 - aurora-to-azure
 ---
 
